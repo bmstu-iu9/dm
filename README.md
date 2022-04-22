@@ -1118,8 +1118,8 @@ digraph {
 
 ### 3.3 Язык автомата Мили (`LangMealy.*`, 5 баллов)
 
-Пусть дан входной алфавит $X=\left\{ a,b\right\} $ и выходной алфавит
-$Y=\left\{ \lambda,x,y,z\right\} $.
+Пусть дан входной алфавит $X=\left\\{ a,b\right\\} $ и выходной алфавит
+$Y=\left\\{ \lambda,x,y,z\right\\} $.
 
 Назовём **языком** инициального автомата Мили
 $A=\left\langle Q,X,Y,\delta,\varphi,q_{0}\right\rangle $
